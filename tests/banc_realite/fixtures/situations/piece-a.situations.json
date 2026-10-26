@@ -1,0 +1,54 @@
+{
+  "piece": "piece-a.md",
+  "rejets": [],
+  "situations": [
+    {
+      "id": "s1",
+      "titre": "Retards de décembre",
+      "nature": "evenement",
+      "concept": null,
+      "resume_neutre": "L'employeur impute des retards le 3 décembre 2023.",
+      "acteurs": [
+        {
+          "nom": "Claire MOREAU",
+          "type_entite": "person",
+          "role": "subject",
+          "role_hors_catalogue": false
+        },
+        {
+          "nom": "Julien CARRÉ",
+          "type_entite": "person",
+          "role": "manager",
+          "role_hors_catalogue": false
+        }
+      ],
+      "chronologie": [
+        {
+          "quand_texte": "3 décembre 2023",
+          "iso": "2023-12-03",
+          "quoi": "Retard allégué à 9 h 10.",
+          "ligne_debut": 3,
+          "ligne_fin": 3,
+          "lettre": "Le 3 décembre 2023, la salariée est arrivée à 9 h 10."
+        }
+      ],
+      "perceptions": [
+        {
+          "acteur": "Julien CARRÉ",
+          "position": "affirme",
+          "ce_qu_il_dit": "La salariée est arrivée à 9 h 10 le 3 décembre.",
+          "preuves": [
+            {
+              "ligne_debut": 3,
+              "ligne_fin": 4,
+              "lettre": "Le 3 décembre 2023, la salariée est arrivée à 9 h 10.\nLe manager affirme des retards répétés."
+            }
+          ]
+        }
+      ],
+      "points_de_desaccord": ["Portée des retards"],
+      "non_etabli": ["Le rappel oral n'est pas produit"],
+      "liens": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.coverage
+build/
+dist/
+var/
+.ambactos-brain-staging
+
+state.db
+state.db-wal
+state.db-shm

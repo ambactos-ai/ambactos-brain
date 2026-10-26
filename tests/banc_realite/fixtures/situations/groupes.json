@@ -1,0 +1,9 @@
+{
+  "groupes": [
+    {
+      "titre": "Retards de décembre 2023",
+      "references": ["piece-a.md#s1", "piece-b.md#s1"]
+    }
+  ],
+  "references_ecartees": []
+}

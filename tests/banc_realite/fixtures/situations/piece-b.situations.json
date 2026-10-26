@@ -1,0 +1,87 @@
+{
+  "piece": "piece-b.md",
+  "rejets": [],
+  "situations": [
+    {
+      "id": "s1",
+      "titre": "Retards imputés par la lettre",
+      "nature": "evenement",
+      "concept": null,
+      "resume_neutre": "La lettre impute trois retards en décembre 2023.",
+      "acteurs": [
+        {
+          "nom": "Claire MOREAU",
+          "type_entite": "person",
+          "role": "subject",
+          "role_hors_catalogue": false
+        },
+        {
+          "nom": "SAS ATELIER RIVIÈRE",
+          "type_entite": "organization",
+          "role": "responsible",
+          "role_hors_catalogue": false
+        }
+      ],
+      "chronologie": [
+        {
+          "quand_texte": "3 décembre 2023",
+          "iso": "2023-12-03",
+          "quoi": "Retard imputé.",
+          "ligne_debut": 3,
+          "ligne_fin": 3,
+          "lettre": "La lettre impute trois retards les 3, 7 et 14 décembre 2023."
+        }
+      ],
+      "perceptions": [
+        {
+          "acteur": "SAS ATELIER RIVIÈRE",
+          "position": "affirme",
+          "ce_qu_il_dit": "Trois retards les 3, 7 et 14 décembre 2023.",
+          "preuves": [
+            {
+              "ligne_debut": 3,
+              "ligne_fin": 3,
+              "lettre": "La lettre impute trois retards les 3, 7 et 14 décembre 2023."
+            }
+          ]
+        }
+      ],
+      "points_de_desaccord": [],
+      "non_etabli": ["Preuve matérielle des retards"],
+      "liens": []
+    },
+    {
+      "id": "s2",
+      "titre": "Montant dû",
+      "nature": "etat",
+      "concept": null,
+      "resume_neutre": "Le montant dû est de 5 000 euros HT.",
+      "acteurs": [
+        {
+          "nom": "SAS ATELIER RIVIÈRE",
+          "type_entite": "organization",
+          "role": "responsible",
+          "role_hors_catalogue": false
+        }
+      ],
+      "chronologie": [],
+      "perceptions": [
+        {
+          "acteur": "SAS ATELIER RIVIÈRE",
+          "position": "affirme",
+          "ce_qu_il_dit": "Le montant dû est de 5 000 euros HT.",
+          "preuves": [
+            {
+              "ligne_debut": 4,
+              "ligne_fin": 4,
+              "lettre": "Le montant dû est de 5 000 euros HT."
+            }
+          ]
+        }
+      ],
+      "points_de_desaccord": [],
+      "non_etabli": [],
+      "liens": []
+    }
+  ]
+}

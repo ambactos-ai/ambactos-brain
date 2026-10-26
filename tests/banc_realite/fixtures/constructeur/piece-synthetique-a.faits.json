@@ -1,0 +1,37 @@
+{
+  "dossier": "banc_realite_test",
+  "piece": "piece-synthetique-a.md",
+  "morceau": 1,
+  "faits": [
+    {
+      "id": "f1",
+      "citation": "Le prestataire Alpha SAS a livré le module le 12 mars 2024.",
+      "ligne_debut": 3,
+      "ligne_fin": 3,
+      "nature": "evenement",
+      "enonciateur": "auteur de la pièce",
+      "date": {"texte": "12 mars 2024", "iso": "2024-03-12"},
+      "descripteur": "livraison du module par Alpha SAS le 12 mars 2024"
+    },
+    {
+      "id": "f2",
+      "citation": "Selon la facture, le montant dû est de 5 000 euros HT.",
+      "ligne_debut": 4,
+      "ligne_fin": 4,
+      "nature": "etat",
+      "enonciateur": "auteur de la pièce",
+      "date": null,
+      "descripteur": "montant dû de 5 000 euros HT selon la facture"
+    },
+    {
+      "id": "f4",
+      "citation": "Toute contestation doit être formulée sous quinze jours.",
+      "ligne_debut": 7,
+      "ligne_fin": 7,
+      "nature": "regle",
+      "enonciateur": "auteur de la pièce",
+      "date": null,
+      "descripteur": "délai de contestation de quinze jours"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "dossier": "banc_realite_test",
+  "piece": "piece-synthetique-b.md",
+  "morceau": 1,
+  "faits": [
+    {
+      "id": "f3",
+      "citation": "Rappel : le montant convenu pour la prestation Alpha était de 7 500 euros HT.",
+      "ligne_debut": 3,
+      "ligne_fin": 3,
+      "nature": "etat",
+      "enonciateur": "Beta SA",
+      "date": null,
+      "descripteur": "montant convenu de 7 500 euros HT pour la prestation Alpha"
+    }
+  ]
+}
